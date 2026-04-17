@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "swi.aternos.me",
+    "ip": "swi1.aternos.me",
     "port": 31159,
     "version": "1.21.1"
   },
